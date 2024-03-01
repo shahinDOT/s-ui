@@ -10,7 +10,7 @@
 
 **If you think this project is helpful to you, you may wish to give a**:star2:
 
-[<img width="150" alt="image" src="https://github.com/shahinDOT/s-ui/assets/160945705/1d3a41f7-ef39-4ec2-acdf-0062f5ac0fa0">](https://www.buymeacoffee.com/alireza7)
+[<img width="150" alt="Buy Me A Coffee" src="https://github.com/shahinDOT/s-ui/assets/160945705/1d3a41f7-ef39-4ec2-acdf-0062f5ac0fa0">](https://www.buymeacoffee.com/alireza7)
 
 - USDT (TRC20): `TYTq73Gj6dJ67qe58JVPD9zpjW2cc9XgVz`
 
