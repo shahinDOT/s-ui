@@ -3,7 +3,7 @@
       <v-row justify="center" align="center">
         <v-col cols="12" sm="8" md="4">
           <v-card>
-            <v-card-title class="headline" v-text="$t('login.title')"></v-card-title>
+            <v-card-title class="headline" v-text="$t('welcome.title')"></v-card-title>
             <v-card-text>
               <v-form @submit.prevent="login" ref="form">
                 <v-text-field v-model="username" :label="$t('login.username')" :rules="usernameRules" required></v-text-field>
