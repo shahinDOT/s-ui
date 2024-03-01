@@ -10,7 +10,7 @@
 
 **If you think this project is helpful to you, you may wish to give a**:star2:
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/alireza7)
+[<img width="150" alt="image" src="https://github.com/shahinDOT/s-ui/assets/160945705/1d3a41f7-ef39-4ec2-acdf-0062f5ac0fa0">](https://www.buymeacoffee.com/alireza7)
 
 - USDT (TRC20): `TYTq73Gj6dJ67qe58JVPD9zpjW2cc9XgVz`
 
@@ -26,10 +26,10 @@
 | Dark/Light Theme                       | :heavy_check_mark: |
 
 
-## Default Installation Informarion
-- Panel Port: 2095
-- Subscription Port: 2096
-- User/Passowrd: admin
+## Default Access Informarion
+- **Panel Port:** 2095
+- **Subscription Port:** 2096
+- **Username/Passowrd:** admin
 
 ## Install & Upgrade to Latest Version
 
@@ -42,7 +42,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/alireza0/s-ui/master/install.s
 **Step 1:** To install your desired version, add the version to the end of the installation command. e.g., ver `0.0.1`:
 
 ```sh
-bash <(curl -Ls https://raw.githubusercontent.com/alireza0/s-ui/master/install.sh) 0.0.1
+bash <(curl -Ls https://raw.githubusercontent.com/alireza0/s-ui/master/install.sh) 0.0.2
 ```
 
 ## Uninstall S-UI
@@ -95,20 +95,21 @@ docker build -t s-ui .
 
 - English
 - Farsi
+- Chinese 
 
 ## Features
 
 - Supported protocols:
-  - General:  Mixed, SOCKS, HTTP, HTTPS, Direct, Redirect, TProxy
+  - General:  Mixed, SOCKS, HTTP, HTTPS, Direct, Redirect, TPROXY
   - V2Ray based: VLESS, VMess, Trojan, Shadowsocks
   - Other protocols: ShadowTLS, Hysteria, Hysteri2, Naive, TUIC
-- Supports XTLS protocols
-- An advanced interface for routing traffic, incorporating PROXY Protocol, External, and Transparent Proxy, SSL Certificate, and Port
+- Supports XTLS/Xray Reality, and Vision protocols
+- An advanced interface for routing traffic, incorporating PROXY Protocol, and Transparent Proxy
 - An advanced interface for inbound and outbound configuration
 - Clients’ traffic cap and expiration date
-- Displays online clients, inbounds and outbounds with traffic statistics, and system status monitoring
-- Subscription service with ability to add external links and subscription
-- HTTPS for secure access to the web panel and subscription service (self-provided domain + SSL certificate)
+- Displays online clients, inbounds and outbounds with traffic statistics
+- Subscription service with ability to add external links
+- Secure access to the web app and subscription service (self-provided domain + SSL certificate)
 - Dark/Light theme
 
 ## Recommended OS
