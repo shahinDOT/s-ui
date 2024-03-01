@@ -29,7 +29,6 @@ export default {
     basics: "Basics",
     admins: "Admins",
     settings: "Settings",
-    login: "Log In"
    
   },
   main: {
@@ -55,7 +54,7 @@ export default {
       core: "Core",
       uptime: "Uptime",
       threads: "Threads",
-      memory: "Memory",
+      memory: "RAM",
       running: "Running"
     }
   },
@@ -78,7 +77,7 @@ export default {
     restartApp: "Restart App",
   },
   login: {
-    title: "Login",
+    title: "Welcome!",
     username: "Username",
     unRules: "Username can not be empty",
     password: "Password",
@@ -88,7 +87,7 @@ export default {
     logout: "Log Out",
   },
   admin: {
-    changeCred: "Change credentials",
+    changeCred: "Change Credentials",
     oldPass: "Current Password",
     newUname: "New Username",
     newPass: "New Password",
@@ -107,7 +106,7 @@ export default {
     timeLoc: "Time Zone",
     subEncode: "Enable Encoding",
     subInfo: "Enable Client Info",
-    path: "Default Path",
+    path: "Subscription URI Path",
     update: "Automatic Update Time",
     subUri: "Subscription URI",
   },
