@@ -5,11 +5,11 @@ export default {
   enable: "Enable",
   disable: "Disable",
   loading: "Loading...",
-  confirm: "Are you sure ?",
-  yes: "yes",
-  no: "no",
-  unlimited: "infinite",
-  remained: "Remained",
+  confirm: "Are you sure?",
+  yes: "Yes",
+  no: "No",
+  unlimited: "Infinite",
+  remained: "Remaining",
   type: "Type",
   submit: "Submit",
   reset: "Reset",
@@ -20,7 +20,7 @@ export default {
   invalidLogin: "Invalid Login!",
   online: "Online",
   pages: {
-    login: "Login",
+    welocme: "Welcome!",
     home: "Home",
     inbounds: "Inbounds",
     outbounds: "Outbounds",
@@ -29,6 +29,8 @@ export default {
     basics: "Basics",
     admins: "Admins",
     settings: "Settings",
+    login: "Log In"
+   
   },
   main: {
     tiles: "Tiles",
@@ -83,7 +85,7 @@ export default {
     pwRules: "Password can not be empty",
   },
   menu: {
-    logout: "Logout",
+    logout: "Log Out",
   },
   admin: {
     changeCred: "Change credentials",
@@ -100,9 +102,9 @@ export default {
     domain: "Domain",
     sslKey: "SSL Key Path",
     sslCert: "SSL Certificate Path",
-    webUri: "Panel URI",
-    sessionAge: "Session Maximum Age",
-    timeLoc: "Timezone Location",
+    webUri: "Panel URI Path",
+    sessionAge: "Session Duration",
+    timeLoc: "Time Zone",
     subEncode: "Enable Encoding",
     subInfo: "Enable Client Info",
     path: "Default Path",
@@ -136,8 +138,8 @@ export default {
   },
   tls : {
     enable: "Enable TLS",
-    usePath: "Use Path",
-    useText: "Use Text",
+    usePath: "Use File Path",
+    useText: "Use File Text",
     certPath: "Certificate File Path",
     keyPath: "Key File Path",
     cert: "Certificate",
